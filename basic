@@ -1,0 +1,69 @@
+<html>
+<head>
+  <title>Div Tag</title>
+  <style>
+    h4{
+    color:green;}
+     p id=2{
+    color:blue;}
+    
+    
+  </style>
+  
+</head>
+
+<body>
+  <div>
+    <h1>Your Name</h1>
+    <h4>Junior F r o n t e n d Developer</h4>
+    <p>1 2 3 Your S t r e e t<br>
+Your City,<br>
+      ST 12345
+(123) 4 5 6 - 7 8 9 0<br>
+      no_reply@example.com</p>
+    
+  </div>
+      <div id ="2">
+        <h4>Skills</h4>
+        <P>HTML, CSS, JavaScript, Accessibility, Figma to Design, Responsive Web Design,
+          Technical Writing, Presentation</p>
+        
+        
+        
+        <h4 >Education</h4>
+        <p style="color:blue">School Name,
+          Location - Degree</p>
+<p>M o n t h 2 0 x x t o M o n t h 2 0 x x<br>
+          List of exciting things you did a t university</p>
+          
+          
+          <h4>Experience</h4>
+          <h3 style="color:blue">Company Name, Location - Job Title</h3>
+          <h5>M o n t h 2 0 x x t o M o n t h 2 0 x x</h5>
+          <Ul>
+            <li>L i s t o f a c h i e v e m e n t s</li>
+            <li>L i s t o f a c h i e v e m e n t s</li>
+            <li>L i s t o f a c h i e v e m e n t s</li>
+            
+          </Ul>
+          <p>Skills: List of skills used or gained at this company</P>
+          
+           <h3 style="color:blue">Company Name, Location - Job Title</h3>
+           <h5>M o n t h 2 0 x x t o M o n t h 2 0 x x</h5>
+           <Ul>
+            <li>L i s t o f a c h i e v e m e n t s</li>
+            <li>L i s t o f a c h i e v e m e n t s</li>
+            <li>L i s t o f a c h i e v e m e n t s</li>
+            
+          </Ul>
+          <p>Skills: List of skills used or gained at this company</P>
+          
+          <h4>A c r o s s t h e I n t e r n e t</h4>
+          <p>Add your LinkedIn, GitHub profile links</p>
+      </div>
+
+
+</body>
+
+
+</html>
